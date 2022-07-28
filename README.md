@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Elliot
 #### I am SwiftUI developer
-![Group 2bannerSwiftui](https://twitter.com/Ellioto0o/header_photo)
+![Group 2bannerSwiftui](https://pbs.twimg.com/profile_banners/1449475543875870727/1658999785/1500x500)
 
 
 I'm making app for solve peoples problems. I done Stellar To The Moon app for see new astronomical picture each day.
