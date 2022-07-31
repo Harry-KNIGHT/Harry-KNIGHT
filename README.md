@@ -14,4 +14,4 @@ I'm making app for solve peoples problems. I done Stellar To The Moon app for se
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Harry-KNIGHT)  
 
 ![Profile views](https://gpvc.arturio.dev/Harry-KNIGHT)  
-![Group 2blender](https://user-images.githubusercontent.com/63256761/181879223-b6ea9a40-3246-471b-827d-becc9fe51ee5.jpg)
+
