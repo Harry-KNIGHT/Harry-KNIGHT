@@ -8,7 +8,8 @@ I'm making app for solve peoples problems. I done Stellar To The Moon app for se
 ## Skills: Swift / SwiftUI / Figma 
 
 <figure>
-[<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/LinkedinIcon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/elliot-knight-134679182//) 
+  
+[<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/LinkedinIcon.png' alt='Linkedin' height='40'>](https://www.instagram.com/Knight_Genius/)
 
 [<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/InstagramIcon.png' alt='instagram' height='40'>](https://www.instagram.com/Knight_Genius/)
 
