@@ -9,15 +9,15 @@ I'm making app for solve peoples problems. I done Stellar To The Moon app for se
 
 <div style="display: flex">
 
-[<img style="float: right;" src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/LinkedinIcon.png' alt='Linkedin' height='40'>](https://www.instagram.com/Knight_Genius/)
+[<img style="float: right" src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/LinkedinIcon.png' alt='Linkedin' height='40'>](https://www.instagram.com/Knight_Genius/)
 
-[<img style="float: right;" src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/InstagramIcon.png' alt='instagram' height='40'>](https://www.instagram.com/Knight_Genius/)
+[<img style="float: right" src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/InstagramIcon.png' alt='instagram' height='40'>](https://www.instagram.com/Knight_Genius/)
 
-[<img style="float: right;" src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/TwitterIcon.png' alt='twitter' height='40'>](https://twitter.com/ellioto0o)  
+[<img style="float: right" src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/TwitterIcon.png' alt='twitter' height='40'>](https://twitter.com/ellioto0o)  
 
-[<img style="float: right;" src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/YTBIcon.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCaLjq9jNstlbZGXT2-WnVUA)
+[<img style="float: right" src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/YTBIcon.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCaLjq9jNstlbZGXT2-WnVUA)
 
-[<img style="float: right;" src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/SwiftIcon.png' alt='website' height='40'>](https://www.apprendre-swiftui.fr/offre-swift-basics?sa=sa0025889476017fbbabc3366b1fa16ab30f469b99)  
+[<img style="float: right" src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/SwiftIcon.png' alt='website' height='40'>](https://www.apprendre-swiftui.fr/offre-swift-basics?sa=sa0025889476017fbbabc3366b1fa16ab30f469b99)  
 </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harry-KNIGHT)  
