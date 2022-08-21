@@ -7,7 +7,7 @@ I'm making app for solve peoples problems. I done Stellar To The Moon app for se
 
 ## Skills: Swift / SwiftUI / Figma 
 
-<div style="flex-direction: row;">
+<div style="display: flex">
 
 [<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/LinkedinIcon.png' alt='Linkedin' height='40'>](https://www.instagram.com/Knight_Genius/)
 
