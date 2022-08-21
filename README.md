@@ -7,8 +7,6 @@ I'm making app for solve peoples problems. I done Stellar To The Moon app for se
 
 ## Skills: Swift / SwiftUI / Figma 
 
-<figure>
-  <span>
 [<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/LinkedinIcon.png' alt='Linkedin' height='40'>](https://www.instagram.com/Knight_Genius/)
 
 [<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/InstagramIcon.png' alt='instagram' height='40'>](https://www.instagram.com/Knight_Genius/)
@@ -18,8 +16,7 @@ I'm making app for solve peoples problems. I done Stellar To The Moon app for se
 [<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/YTBIcon.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCaLjq9jNstlbZGXT2-WnVUA)
 
 [<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/SwiftIcon.png' alt='website' height='40'>](https://www.apprendre-swiftui.fr/offre-swift-basics?sa=sa0025889476017fbbabc3366b1fa16ab30f469b99)  
-  </span>
-</figure>
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harry-KNIGHT)  
 
