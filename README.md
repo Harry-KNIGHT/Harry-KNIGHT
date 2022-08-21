@@ -6,7 +6,8 @@
 I'm making app for solve peoples problems. I done Stellar To The Moon app for see new astronomical picture each day.
 
 ## Skills: Swift / SwiftUI / Figma 
-<p float="left">
+
+  <p float="left">
 [<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/LinkedinIcon.png' alt='Linkedin' height='40'>](https://www.instagram.com/Knight_Genius/)
 
 [<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/InstagramIcon.png' alt='instagram' height='40'>](https://www.instagram.com/Knight_Genius/)
