@@ -7,20 +7,17 @@ I'm making app for solve peoples problems. I done Stellar To The Moon app for se
 
 ## Skills: Swift / SwiftUI / Figma 
 
-<span>
+<figure>
 [<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/LinkedinIcon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/elliot-knight-134679182//) 
-</span>
+
 [<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/InstagramIcon.png' alt='instagram' height='40'>](https://www.instagram.com/Knight_Genius/)
-</span>
-<span>
+
 [<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/TwitterIcon.png' alt='twitter' height='40'>](https://twitter.com/ellioto0o)  
-</span>
-<span>
+
 [<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/YTBIcon.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCaLjq9jNstlbZGXT2-WnVUA)
-</span>
-<span>
+
 [<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/SwiftIcon.png' alt='website' height='40'>](https://www.apprendre-swiftui.fr/offre-swift-basics?sa=sa0025889476017fbbabc3366b1fa16ab30f469b99)  
-</span>
+</figure>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harry-KNIGHT)  
 
