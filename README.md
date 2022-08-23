@@ -1,9 +1,13 @@
 ### Hi there 👋, my name is Elliot
-#### I am SwiftUI developer
+
+#### [Download my application on App Store](https://apps.apple.com/fr/app/stellar-to-the-moon/id1636548200?l=en)
+
 ![Group 2bannerSwiftui](https://pbs.twimg.com/profile_banners/1449475543875870727/1658999785/1500x500)
 
 
-I'm making app for solve peoples problems. I done Stellar To The Moon app for see new astronomical picture each day.
+I'm making iOS app for solve peoples problems. 
+
+I done [Stellar To The Moon app](https://apps.apple.com/fr/app/stellar-to-the-moon/id1636548200?l=en) for see new astronomical picture each day.
 
 ## Skills: Swift / SwiftUI / Figma 
 
