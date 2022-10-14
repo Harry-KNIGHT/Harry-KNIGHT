@@ -1,4 +1,6 @@
+ <div align="center">
  <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/Images/visuel%20logo%20AW%20%2Bw%20degradé%20horizontal%20blanc.png" width="250"/>
+</div>
 <div align="center">
  <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/MaghrebRecipesHDMockup.png" width="250"/>
  <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/StellarMoonHDMockup.png" width="250"/>
