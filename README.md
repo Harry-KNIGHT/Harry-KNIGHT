@@ -1,9 +1,11 @@
-### Hi there 👋, my name is Elliot
+### Hi there 👋
 
 #### [Download my application on App Store](https://apps.apple.com/fr/app/stellar-to-the-moon/id1636548200?l=en)
-
-![Group 2bannerSwiftui](https://pbs.twimg.com/profile_banners/1449475543875870727/1658999785/1500x500)
-
+<div align="center">
+ <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/MaghrebRecipesHDMockup.png" width="250"/>
+ <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/StellarMoonHDMockup.png" width="250"/>
+ <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/c4fMockup.png" width="250"/>
+<\div>
 
 I'm making iOS app for solve peoples problems. 
 
