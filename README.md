@@ -2,10 +2,12 @@
  <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/Images/visuel%20logo%20AW%20%2Bw%20degradé%20horizontal%20blanc.png" width="250"/>
 </div>
 <div align="center">
- <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/MaghrebRecipesHDMockup.png" width="250"/>
- <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/StellarMoonHDMockup.png" width="250"/>
- <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/c4fMockup.png" width="250"/>
-
+ <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/MaghrebRecipesHDMockup.png" width="200"/>
+ <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/StellarMoonHDMockup.png" width="200"/>
+ <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/c4fMockup.png" width="200"/>
+ <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/MaskoTrainningView.png" width="200"/>
+ </div>         
+ <div align="center">
 I'm making iOS app for solve peoples problems. 
 
 ## I done [Stellar To The Moon app](https://apps.apple.com/fr/app/stellar-to-the-moon/id1636548200?l=en) for see new astronomical picture each day.
