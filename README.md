@@ -8,7 +8,10 @@
 
  <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/MaskoTrainningView.png" width="200"/>
  </div>
-
+ <div align="center">
+ <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/C4FAWListView.png" width="185"/>
+ <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/C4FAWDetailView.png" width="185"/>
+ </div>
  <div align="center">
  
 ## Download my apps on App Store: 
