@@ -14,7 +14,7 @@
  </div>
  <div align="center">
  
-## Download [Stellar To The Moon](https://apps.apple.com/fr/app/stellar-to-the-moon/id1636548200?l=en) on App Store: look and download new astronomical picture each day
+## Download [Stellar To The Moon](https://apps.apple.com/fr/app/stellar-to-the-moon/id1636548200?l=en) on App Store: look and download new astronomical picture.
  
 <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/AppIcon/StellarAppIcon.png" width="150"/>
 <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/AppIcon/MaskoAppIcon.png" width="150"/>
