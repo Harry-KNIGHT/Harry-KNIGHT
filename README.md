@@ -14,16 +14,12 @@
  </div>
  <div align="center">
  
-## Download my apps on App Store: 
- * [Stellar To The Moon app](https://apps.apple.com/fr/app/stellar-to-the-moon/id1636548200?l=en): see and download new astronomical picture each day,
- * [Masko](https://apps.apple.com/us/app/masko/id6443880500): move your body and get information of your sport sessions 🏃🏻‍♂️
+## Download [Stellar To The Moon](https://apps.apple.com/fr/app/stellar-to-the-moon/id1636548200?l=en) on App Store: look and download new astronomical picture each day
  
 <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/AppIcon/StellarAppIcon.png" width="150"/>
 <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/AppIcon/MaskoAppIcon.png" width="150"/>
 <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/AppIcon/C4FAppIcon.png" width="150"/>
 <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/AppIcon/MaghRecipesAppIcon.png" width="150"/>
-
- 
 
 ## Skills: Swift / SwiftUI / Figma / [UIKit](https://github.com/Harry-KNIGHT/Crypto4FunUIKit) 
 
