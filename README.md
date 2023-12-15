@@ -1,28 +1,33 @@
- <div align="center">
- <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/Images/visuel%20logo%20AW%20%2Bw%20degradé%20horizontal%20blanc.png" width="250"/>
-</div>
-<div align="center">
- <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/MaghrebRecipesHDMockup.png" width="200"/>
- <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/StellarGridViewMockup14ProMax.png" width="200"/>
-  <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/C4FWidget14ProMaxMockup.png" width="200"/>
+Hi there 👋 I'm a consultant at Appiwedia with over two years of **iOS development** at companies like [Française des Jeux](https://www.fdj.fr) and Appiwedia
 
- <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/MaskoTrainningView.png" width="200"/>
- </div>
- <div align="center">
- <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/C4FAWListView.png" width="185"/>
- <img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/RealizedAppHDMockup/C4FAWDetailView.png" width="185"/>
- </div>
- <div align="center">
- 
-## Download [Stellar To The Moon](https://apps.apple.com/fr/app/stellar-to-the-moon/id1636548200?l=en) on App Store: look and download new astronomical picture.
- 
-<img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/AppIcon/StellarAppIcon.png" width="150"/>
-<img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/AppIcon/MaskoAppIcon.png" width="150"/>
-<img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/AppIcon/C4FAppIcon.png" width="150"/>
-<img src="https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/AppIcon/MaghRecipesAppIcon.png" width="150"/>
+I've made several contributions to open source, to tools such as [Control Room](https://github.com/twostraws/ControlRoom/pulls?q=is%3Apour+author%3Aharry-knight), and participating in code review of differents projets like [Swift Foundation](https://github.com/apple/swift-foundation), [SwiftLint](https://github.com/realm/SwiftLint).
 
-## Skills: Swift / SwiftUI / Figma / [UIKit](https://github.com/Harry-KNIGHT/Crypto4FunUIKit) 
+You can get in touch with me by email at [elliot.knight@appiwedia.com](mailto:elliot.knight@appiwedia.com) and [LinkedIn](https://www.linkedin.com/in/elliot-knight-appiwedia/).
 
-[<img  src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/LinkedinIcon.png' alt='Linkedin' height='40'>](https://www.linkedin.com/in/elliot-knight-134679182/)[<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/InstagramIcon.png' alt='instagram' height='40'>](https://www.instagram.com/Knight_Genius/) [<img  src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/TwitterIcon.png' alt='twitter' height='40'>](https://twitter.com/ellioto0o) [<img  src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/YTBIcon.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCaLjq9jNstlbZGXT2-WnVUA)[<img src='https://github.com/Harry-KNIGHT/ImageGifVideoForReadme/blob/main/SocialNetwork/SwiftIcon.png' alt='website' height='40'>](https://www.apprendre-swiftui.fr/offre-swift-basics?sa=sa0025889476017fbbabc3366b1fa16ab30f469b99)  
-</div>
+### Work Experience
+
+[<img align="left" height="94px" width="94px" alt="FDJ Icon" src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/49c96f2e-4a1e-4e87-b643-487429ef664b"/>](https://www.enligne.parionssport.fdj.fr)
+
+**iOS Developer** \
+[**Parions Sport En Ligne**](https://www.enligne.parionssport.fdj.fr) • Freelance \
+Languages & Technologies: `Swift`, `SwiftUI`, `UIKit`, `Kotlin Multiplatform`, `Batch` \
+Tools Used: `GitLab`, `Jira`, `Figma`
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Appiwedia Icon" src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/a0709f75-35a2-48c9-b9a9-1e8ca69a04de"/>](https://www.enligne.parionssport.fdj.fr)
+
+**iOS Developer** \
+**Appiwedia Agency** • Freelance \
+Languages & Technologies: `Swift`, `SwiftUI`, `UIKit`, `iOS` \
+Projects: [Bokit Finder](https://apps.apple.com/fr/app/bokit-finder/id1208159882?l=en-GB), [SNGAF](https://apps.apple.com/fr/app/sngaf-pnc/id1475351310)
+Tools Used: `Trello`, `Jira`, `BitBucket`, `Figma`
+<br/>
+
+### Blog Posts
+
+- [Coding My Way to the App Store: A Self-Taught iOS Developer's Tale](https://dubdub.space/elliot/learning-ios-development-by-myself-to-the-m)
+
+### Acknowledgments
+
+I extend my heartfelt thanks to individuals like Mickaël, Lionel, Nyl, Ronaël, and many others whose support and guidance have played a pivotal role in shaping my journey as an iOS developer.
 
