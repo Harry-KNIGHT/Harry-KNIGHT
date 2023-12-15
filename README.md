@@ -6,7 +6,7 @@ You can get in touch with me by email at [elliot.knight@appiwedia.com](mailto:el
 
 ### Work Experience
 
-[<img align="left" height="94px" width="94px" alt="FDJ Icon" src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/49c96f2e-4a1e-4e87-b643-487429ef664b"/>](https://www.enligne.parionssport.fdj.fr)
+[<img align="left" height="100px" width="100px" alt="FDJ Icon" src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/49c96f2e-4a1e-4e87-b643-487429ef664b"/>](https://www.enligne.parionssport.fdj.fr)
 
 **iOS Developer** \
 [**Parions Sport En Ligne**](https://www.enligne.parionssport.fdj.fr) • Freelance \
@@ -14,13 +14,13 @@ Languages & Technologies: `Swift`, `SwiftUI`, `UIKit`, `Kotlin Multiplatform`, `
 Tools Used: `GitLab`, `Jira`, `Figma`
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Appiwedia Icon" src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/a0709f75-35a2-48c9-b9a9-1e8ca69a04de"/>](https://www.enligne.parionssport.fdj.fr)
+[<img align="left" height="100px" width="100px" alt="Appiwedia Icon" src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/a0709f75-35a2-48c9-b9a9-1e8ca69a04de"/>](https://www.enligne.parionssport.fdj.fr)
 
 **iOS Developer** \
 **Appiwedia Agency** • Freelance \
 Languages & Technologies: `Swift`, `SwiftUI`, `UIKit`, `iOS` \
-Projects: [Bokit Finder](https://apps.apple.com/fr/app/bokit-finder/id1208159882?l=en-GB), [SNGAF](https://apps.apple.com/fr/app/sngaf-pnc/id1475351310)
-Tools Used: `Trello`, `Jira`, `BitBucket`, `Figma`
+Projects: [Bokit Finder](https://apps.apple.com/fr/app/bokit-finder/id1208159882?l=en-GB), [SNGAF](https://apps.apple.com/fr/app/sngaf-pnc/id1475351310) \
+Tools Used: `Trello`, `Jira`, `BitBucket`, `Figma` \
 <br/>
 
 ### Blog Posts
