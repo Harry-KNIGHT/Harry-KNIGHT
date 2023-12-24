@@ -6,16 +6,23 @@ You can get in touch with me by email at [elliot.knight@appiwedia.com](mailto:el
 
 ### Work Experience
 
-[<img align="left" height="100px" width="100px" alt="FDJ Icon" src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/49c96f2e-4a1e-4e87-b643-487429ef664b"/>](https://www.enligne.parionssport.fdj.fr)
+[<img align="top" height="80px" width="80px" alt="FDJ Icon" src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/49c96f2e-4a1e-4e87-b643-487429ef664b"/>](https://www.enligne.parionssport.fdj.fr)
 
 **iOS Developer** \
 [**Parions Sport En Ligne**](https://www.enligne.parionssport.fdj.fr) • Freelance \
 *14/12/2022 - 08/01/2024* \
 Languages & Technologies: `Swift`, `SwiftUI`, `UIKit`, `Kotlin Multiplatform`, `Batch` \
-Tools Used: `GitLab`, `Jira`, `Figma`
+Tools Used: `GitLab`, `Jira`, `Figma` \
+
+As part of the Groot feature team, I worked on various parts of the app such as:
+- **SearchBar:** Implemented functionality to filter by name, market, and other criteria.
+- **Kotlin Multiplatform Conversion:** Translated Kotlin Multiplatform to Swift code to prevent bugs and enhance performance.
+- **Bug Fixes:** Identified and resolved software issues.
+- **New Scoreboard Integration:** Implemented a new scoreboard across the entire app, utilizing SwiftUI within both UIKit and SwiftUI parent views.
+- **Live Score API Integration:** Integrated a live score API with diverse subtitles to enhance view rendering performance and reduce API fetching overhead.
 <br/>
 
-[<img align="left" height="100px" width="100px" alt="Appiwedia Icon" src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/a0709f75-35a2-48c9-b9a9-1e8ca69a04de"/>](https://www.enligne.parionssport.fdj.fr)
+[<img align="top" height="80px" width="80px" alt="Appiwedia Icon" src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/a0709f75-35a2-48c9-b9a9-1e8ca69a04de"/>](https://www.enligne.parionssport.fdj.fr)
 
 **iOS Developer** \
 **Appiwedia Agency** • Freelance \
