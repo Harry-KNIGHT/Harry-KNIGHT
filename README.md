@@ -10,6 +10,7 @@ You can get in touch with me by email at [elliot.knight@appiwedia.com](mailto:el
 
 **iOS Developer** \
 [**Parions Sport En Ligne**](https://www.enligne.parionssport.fdj.fr) • Freelance \
+*14/12/2022 - 08/01/2024* \
 Languages & Technologies: `Swift`, `SwiftUI`, `UIKit`, `Kotlin Multiplatform`, `Batch` \
 Tools Used: `GitLab`, `Jira`, `Figma`
 <br/>
@@ -18,13 +19,14 @@ Tools Used: `GitLab`, `Jira`, `Figma`
 
 **iOS Developer** \
 **Appiwedia Agency** • Freelance \
+*12/2021 - Today* \
 Languages & Technologies: `Swift`, `SwiftUI`, `UIKit`, `iOS` \
 Projects: [Bokit Finder](https://apps.apple.com/fr/app/bokit-finder/id1208159882?l=en-GB), [SNGAF](https://apps.apple.com/fr/app/sngaf-pnc/id1475351310) \
 Tools Used: `Trello`, `Jira`, `BitBucket`, `Figma` \
 <br/>
 
 ### Blog Posts
-
+- [Enhancing User Engagement: Utilizing Apple's Gauge for Dynamic Character Monitoring in SwiftUI](https://dubdub.space/elliot/enhancing-user-engagement-utilizing-apples-gauge-for-o)
 - [Coding My Way to the App Store: A Self-Taught iOS Developer's Tale](https://dubdub.space/elliot/learning-ios-development-by-myself-to-the-m)
 
 ### Acknowledgments
