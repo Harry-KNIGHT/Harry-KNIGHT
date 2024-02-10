@@ -6,13 +6,23 @@ You can get in touch with me by email at [elliot.knight@appiwedia.com](mailto:el
 
 ### Work Experience
 
+[<img align="top" height="80px" alt="FDJ Icon" src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/8ab104e5-7e7d-47f2-a5cf-9a83861162d5"/>](https://www.decathlon.fr)
+
+
+**iOS Engineer** \
+[**Decathlon Digital**](https://www.decathlon.fr) • Internal \
+*01/02/2024 - Today* \
+Languages & Technologies: `Swift`, `SwiftUI`, `UIKit` \
+Tools Used: `GitHub`, `Jira`, `Figma`
+
+
 [<img align="top" height="80px" width="80px" alt="FDJ Icon" src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/49c96f2e-4a1e-4e87-b643-487429ef664b"/>](https://www.enligne.parionssport.fdj.fr)
 
 **iOS Developer** \
 [**Parions Sport En Ligne**](https://www.enligne.parionssport.fdj.fr) • Freelance \
 *14/12/2022 - 08/01/2024* \
 Languages & Technologies: `Swift`, `SwiftUI`, `UIKit`, `Kotlin Multiplatform`, `Batch` \
-Tools Used: `GitLab`, `Jira`, `Figma` \
+Tools Used: `GitLab`, `Jira`, `Figma`
 
 As part of the Groot feature team, I worked on various parts of the app such as:
 - **SearchBar:** Implemented functionality to filter by name, market, and other criteria.
@@ -32,7 +42,11 @@ Projects: [Bokit Finder](https://apps.apple.com/fr/app/bokit-finder/id1208159882
 Tools Used: `Trello`, `Jira`, `BitBucket`, `Figma` \
 <br/>
 
-### Blog Posts
+## Podcast
+
+- [How to hack the system - From 0 to €70,000 turnover starting from nothing](https://www.apprendre-swiftui.fr/podcast) 🚀
+
+## Blog post
 - [Enhancing User Engagement: Utilizing Apple's Gauge for Dynamic Character Monitoring in SwiftUI](https://dubdub.space/elliot/enhancing-user-engagement-utilizing-apples-gauge-for-o)
 - [Coding My Way to the App Store: A Self-Taught iOS Developer's Tale](https://dubdub.space/elliot/learning-ios-development-by-myself-to-the-m)
 
