@@ -3,8 +3,9 @@ Hi, I'm Elliot, a passionate visionOS and iOS software developer at **Decathlon 
 I've made several contributions to open source, to tools such as [Control Room](https://github.com/twostraws/ControlRoom/pulls?q=is%3Apour+author%3Aharry-knight), and participating in code review of differents projets like [Swift Foundation](https://github.com/apple/swift-foundation), [SwiftLint](https://github.com/realm/SwiftLint).
 
 I'm deeply passionate about SwiftUI and Vision Pro, dedicating my days to crafting innovative iOS apps for my job. In my spare moments, I eagerly immerse myself in the world of visionOS development, actively working on projects destined for learning and for App Store launch.
-
-<img src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/de61ceea-894e-43e2-839d-c2aa5de750b7">
+| Planet Viewer | AstroVision |
+| - | - |
+| <img src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/de61ceea-894e-43e2-839d-c2aa5de750b7"> |  <img src="https://github.com/Harry-KNIGHT/Harry-KNIGHT/assets/63256761/59686eea-db8b-4744-8831-c135c6fd43a7">
 
 ## Podcast
 
