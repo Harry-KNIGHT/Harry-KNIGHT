@@ -28,3 +28,6 @@ You can get in touch with me via [LinkedIn](https://www.linkedin.com/in/elliot-k
 ## Acknowledgments
 
 I extend my heartfelt thanks to individuals like Mickaël M., Lionel G., Nyl N., Ronaël B., Florent M. and many others whose support and guidance have played a pivotal role in shaping my journey as an iOS & visionOS developer.
+
+
+![Dimillian's GitHub stats](https://github-readme-stats.vercel.app/api?username=harry-knight&theme=dark)
